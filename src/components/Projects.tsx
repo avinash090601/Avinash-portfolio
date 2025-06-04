@@ -11,13 +11,7 @@ const projects = [
     description:
       "Web app with Node.js, MongoDB, EJS, and JWT for managing global football data and bookmarks.",
     link: "https://github.com/avinash090601/football-tracker",
-  },
-  {
-    title: "City Tourism Guide (Android)",
-    description:
-      "Kotlin-based map and navigation app using Google Maps SDK and Places API.",
-    link: "https://github.com/avinash090601/tourism-app",
-  },
+  }
 ];
 
 const Projects = () => {
