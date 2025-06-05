@@ -10,7 +10,7 @@ const projects = [
     title: "Global Football Match Tracker",
     description:
       "Web app with Node.js, MongoDB, EJS, and JWT for managing global football data and bookmarks.",
-    link: "https://github.com/avinash090601/football-tracker",
+    link: "https://github.com/avinash090601/football-match-tracker",
   }
 ];
 
